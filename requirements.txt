@@ -1,0 +1,23 @@
+# Digit Classification ML Project Dependencies
+
+# Core ML Libraries
+numpy>=1.21.0
+scikit-learn>=1.0.0
+pandas>=1.3.0
+
+# XGBoost
+xgboost>=1.5.0
+
+# Image Processing
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Kaggle Dataset Download
+kagglehub>=0.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Utilities
+joblib>=1.1.0
